@@ -6,5 +6,6 @@ int main(){
     int c=a+b;
     int d=a-b;
     int x=a*b;
+    int t=a*2;
     printf("%d %d",c, d);
 }
