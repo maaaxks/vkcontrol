@@ -9,5 +9,6 @@ int main(){
     int t=a*2;
     int f=b*2;
     int sa=a*a;
+    int sb=b*b;
     printf("%d %d",c, d);
 }
