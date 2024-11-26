@@ -8,5 +8,6 @@ int main(){
     int x=a*b;
     int t=a*2;
     int f=b*2;
+    int sa=a*a;
     printf("%d %d",c, d);
 }
